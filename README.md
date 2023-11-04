@@ -1,4 +1,4 @@
-# Class-Roster
+# Student-Roster-System
 This program takes student data given from a table and creates a class roster. 
 # Description
 It will display various information about the student including: 
